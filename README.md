@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Daydreamer-231
+- 👀 I’m interested in discord bot & website developing
+- 🌱 I’m currently learning JS & HTML
+- 💞️ I’m looking to collaborate on a discord bot and a website
+- 📫 How to reach me: Daydreamer.#7713 on Discord
